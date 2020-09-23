@@ -1,0 +1,4 @@
+./absl_tests
+../../testing/test_env.py
+../../.vpython
+bin/run_absl_tests

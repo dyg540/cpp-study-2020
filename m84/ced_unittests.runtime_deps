@@ -1,0 +1,4 @@
+./ced_unittests
+../../testing/test_env.py
+../../.vpython
+bin/run_ced_unittests

@@ -1,0 +1,6 @@
+./opus_tests
+../../third_party/opus/tests/resources/speech_mono_32_48kHz.pcm
+icudtl.dat
+../../testing/test_env.py
+../../.vpython
+bin/run_opus_tests
