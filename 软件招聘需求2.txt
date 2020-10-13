@@ -1,0 +1,18 @@
+Nodejs 开发工程师(1人)
+1. 熟悉javascript，es6, socket io, protoojs，nodejs 底层api ，
+2. 熟悉nodejs构建工具 gulp,browserify ;
+3. 熟悉vue,React ui 组件调用  ;
+4. 熟悉c++标准编程, lib库的跨平台编译与调用 ;
+5. 熟悉java，c++, go，python 任一编程语言，有服务器编程经验优先；
+6. 熟悉electron 客户端编程，有WebRtc 实际开发经验优先 ；
+
+数据库开发(1人)
+1.熟悉开源数据库mysql, psql，mongodb之一
+2.有数据建模基础，能对数据进行有效建模，理清表结构关系，并制作规范化的数据库设计文档
+3.有oracle 数据库开发经验,  熟悉pl/sql 开发
+
+
+
+
+
+
