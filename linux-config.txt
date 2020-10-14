@@ -1,0 +1,6 @@
+vsftp:
+https://blog.csdn.net/qq_26442553/article/details/81411261
+https://blog.csdn.net/husongbo/article/details/81939078
+
+挂载硬盘:
+https://www.cnblogs.com/cappuccinom/p/8971999.html
