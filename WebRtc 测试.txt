@@ -1,0 +1,16 @@
+https://www.rongsoft.com/article/2020/02/111348302721/
+
+
+WEBRTC 能力测试
+https://www.qcloudtrtc.com/webrtc-samples/abilitytest/index.html
+
+
+腾讯WEBRTC 
+
+https://cloud.tencent.com/document/product/647/38549
+
+WebRtc API
+
+https://developer.mozilla.org/zh-CN/docs/Web/API/WebRTC_API
+
+
