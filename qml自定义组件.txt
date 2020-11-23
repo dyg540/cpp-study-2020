@@ -1,0 +1,6 @@
+将QML与Qt Widgets相结合
+https://developer.aliyun.com/article/595038
+
+如何用Qt实现组件供QML使用
+
+https://blog.csdn.net/weixin_34329187/article/details/89605993
